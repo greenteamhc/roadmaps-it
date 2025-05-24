@@ -37,6 +37,10 @@ Bem-vindo à trilha de estudos para se desenvolver na área de dados, começando
 - Chaves primárias, secundárias e estrangeiras
 - Cálculo de estatísticas descritivas (como mediana e quartis) utilizando SQL, mesmo em engines que não possuem funções diretas para isso. Ferramentas como Spark SQL possuem funções específicas para mediana e percentis.
 
+Para SQL uma forte recomendação é a seguinte trilha:
+- [Desafio SQL leetcode](https://leetcode.com/studyplan/top-sql-50/): Ótimo para praticar e ver exemplos reais
+- [Curso SQL 6 horas - Udemy](https://www.udemy.com/course/sql-para-analise-de-dados/): Recomendo irem entrando de tempos em tempos e pegarem quando ficar 24 reais rs
+
 ### 3. Estatística e Probabilidade
 
 - Estatística Básica: Fundamento crucial para a área de dados
@@ -64,6 +68,8 @@ Bem-vindo à trilha de estudos para se desenvolver na área de dados, começando
   - Métodos e pacotes para leitura e escrita de dados (uso de Pandas em Python)
   - Cálculo de estatísticas (frequência, medidas de posição, etc.) com Pandas, SciPy, Statsmodels
   - Visualização de dados usando bibliotecas de gráficos em Python
+
+- [Desafio Pandas Leetcode](https://leetcode.com/studyplan/30-days-of-pandas/): Ótimo para praticar e ver exemplos reais
 
 ---
 
