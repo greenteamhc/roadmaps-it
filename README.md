@@ -129,6 +129,30 @@ Para SQL uma forte recomendação é a seguinte trilha:
 
 ---
 
+## 5. Deploy de Modelos
+
+- **Conceitos de Deploy:** O que é deploy de modelos? Diferença entre prototipagem e produção.
+- **Serialização de Modelos:** Como salvar e carregar modelos treinados (pickle, joblib, ONNX).
+- **APIs para Modelos:** 
+  - Criação de APIs com Flask, FastAPI ou Django para servir modelos.
+  - Testes de endpoints.
+- **Containers:** 
+  - Docker para empacotar aplicações de Machine Learning.
+  - Noções de Dockerfile e docker-compose.
+- **Orquestração e Escalabilidade:** 
+  - Introdução ao Kubernetes.
+  - Serviços gerenciados (AWS SageMaker, Google AI Platform, Azure ML).
+- **Monitoramento de Modelos:** 
+  - Monitoramento de performance e dados em produção.
+  - Ferramentas como MLflow, Prometheus, Grafana.
+- **Versionamento de Modelos:** 
+  - DVC, MLflow, Git para versionamento de código e modelos.
+- **Documentação e Boas Práticas:** 
+  - Swagger/OpenAPI para documentação de APIs.
+  - Logs, testes automatizados e CI/CD para modelos.
+
+---
+
 ## Recursos Sugeridos
 
 ### Plataformas de Aprendizado e Prática
@@ -139,6 +163,10 @@ Para SQL uma forte recomendação é a seguinte trilha:
 - Curso Básico de Estatística: Focado nos conceitos fundamentais e aplicação prática em Sheets, Python e SQL
 - [Curso de SQL - W3Schools](https://www.w3schools.com/sql/): Para aprender e praticar SQL
 - Documentação oficial de bibliotecas e frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, Gensim, Apache Spark, Apache Hadoop, Apache Hive
+- [Documentação Flask](https://flask.palletsprojects.com/)
+- [Documentação FastAPI](https://fastapi.tiangolo.com/)
+- [Documentação Docker](https://docs.docker.com/)
+- [MLflow](https://mlflow.org/)
 
 ### Livros
 - [Python para Análise de Dados - Wes McKinney](https://wesmckinney.com/book/): Essencial para aprender a manipular dados com Python/Pandas
@@ -147,3 +175,5 @@ Para SQL uma forte recomendação é a seguinte trilha:
 - Livros sobre Machine Learning (ex: Machine Learning: Guia de Referência Rápida - Matt Harrison, Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow - Aurélien Géron)
 
 ---
+
+Siga essa trilha de forma iterativa, pratique bastante em diferentes tecnologias (Excel, SQL, Python), e compartilhe seus projetos! Não desista se algo parecer complexo inicialmente; o aprendizado é progressivo.
