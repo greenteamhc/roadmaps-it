@@ -169,9 +169,11 @@ Para SQL uma forte recomendação é a seguinte trilha:
 - [MLflow](https://mlflow.org/)
 
 ### Livros
+- [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](https://www.amazon.com.br/M%C3%A3os-Obra-Aprendizado-Scikit-Learn-TensorFlow/dp/8550803812): Tem os principais fundamentos de aprendizado de máquina
 - [Python para Análise de Dados - Wes McKinney](https://wesmckinney.com/book/): Essencial para aprender a manipular dados com Python/Pandas
 - Introduction to Operations Research - Frederick S. Hillier e Gerald J. Lieberman
-- Livros de probabilidade e estatística
+- [Estatística Básica](https://www.amazon.com.br/Estatistica-Basica-10%C2%AA-edi%C3%A7%C3%A3o-2024-ebook/dp/B0CW1LHHD3): Fundamentos de estatística
+- [Noções de Probabilidade](https://www.ime.usp.br/~noproest/doku.php?id=principal): Fundamentos de Probabilidade
 - Livros sobre Machine Learning (ex: Machine Learning: Guia de Referência Rápida - Matt Harrison, Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow - Aurélien Géron)
 
 ---
