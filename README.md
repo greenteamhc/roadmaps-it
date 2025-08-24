@@ -12,11 +12,15 @@ O nosso principal objetivo é facilitar o aprendizado e democratizar o acesso à
 
 Para facilitar a navegação, os materiais estão organizados da seguinte forma:
 
+```bash
 /
 ├── 📚 **Bibliografia**
+|
+|
+|
 │
 ├── 🗺️ **Dados-I**
-
+```
 
 ## ✨ Como Contribuir
 
