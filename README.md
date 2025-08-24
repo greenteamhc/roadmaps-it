@@ -1,5 +1,5 @@
 # Repositório de conhecimento do Green Team Hacker Club
---
+
 > Um repositório de conhecimento livre e colaborativo com bibliografias e roadmaps.
 --
 ## 🚀 Sobre o Projeto
@@ -16,6 +16,7 @@ Para facilitar a navegação, os materiais estão organizados da seguinte forma:
 ├── 📚 **Bibliografia**
 │
 ├── 🗺️ **Dados-I**
+
 --
 ## ✨ Como Contribuir
 
