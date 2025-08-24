@@ -15,10 +15,6 @@ Para facilitar a navegação, os materiais estão organizados da seguinte forma:
 ```bash
 /
 ├── 📚 **Bibliografia**
-|
-|
-|
-│
 ├── 🗺️ **Dados-I**
 ```
 
